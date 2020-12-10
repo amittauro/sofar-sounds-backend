@@ -1,12 +1,11 @@
-#Sofar sounds backend tech test
+# Sofar sounds backend tech test
 
-api query endpoints
-
-current endpoints:
+## Api query endpoints
 
 1. GET video/:song-title
-2. GET video/location/:city 
+2. GET video/location/:city
 
+## Setup
 
 1. bundle install
 2. create a database in psql called sofar
